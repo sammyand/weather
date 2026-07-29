@@ -1,0 +1,1 @@
+My first weather app just use a vs code or other code editors and put in your own weather api key in the api_key.Then run it using Python and enter a city or country.You will need the requests python library and i dont think it will work for anything else other than python 3.13
